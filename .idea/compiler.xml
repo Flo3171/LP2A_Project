@@ -9,5 +9,11 @@
         <module name="LP2A_Project" />
       </profile>
     </annotationProcessing>
+<<<<<<< HEAD
+    <bytecodeTargetLevel>
+      <module name="LP2A_Project" target="15" />
+    </bytecodeTargetLevel>
+=======
+>>>>>>> origin/main
   </component>
 </project>
